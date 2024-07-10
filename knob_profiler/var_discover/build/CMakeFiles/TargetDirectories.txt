@@ -1,0 +1,7 @@
+/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/rebuild_cache.dir
+/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/KnobDependencyPass.dir
+/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/HelloPass2.dir
+/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/acc_gen.dir
+/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/edit_cache.dir
+/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/omp_gen.dir
+/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/intrinsics_gen.dir

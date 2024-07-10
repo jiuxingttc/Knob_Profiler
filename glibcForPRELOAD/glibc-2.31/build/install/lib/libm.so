@@ -1,0 +1,4 @@
+/* GNU ld script
+*/
+OUTPUT_FORMAT(elf64-x86-64)
+GROUP ( /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/install/lib/libm.so.6  AS_NEEDED ( /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/install/lib/libmvec.so.1 ) )

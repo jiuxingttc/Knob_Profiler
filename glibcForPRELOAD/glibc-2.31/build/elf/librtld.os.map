@@ -1,0 +1,1567 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-errno.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (rtld_errno)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__closedir)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__rewinddir)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__readdir)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__fdopendir)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os) (__getdents64)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__profil)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__profile_frequency)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__GI___xstat64)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__GI___fxstat64)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__GI___lxstat64)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__lseek)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__access)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__GI___close_nocancel)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__GI___fcntl64_nocancel)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__GI___open64_nocancel)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__GI___openat64_nocancel)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__GI___read_nocancel)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__GI___pread64_nocancel)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__GI___write_nocancel)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__libc_scratch_buffer_set_array_size)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__mmap)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-munmap.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__munmap)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mprotect.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__mprotect)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettid.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os) (gettid)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-uname.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__uname)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__GI__exit)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getpid.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__getpid)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-environ.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__environ)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setjmp.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__sigsetjmp)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__longjmp)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os) (__sigaction)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__strdup)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (strcmp)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (strncmp)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (memchr)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (rawmemchr)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (memcmp)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (strchr)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (strlen)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (strnlen)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__stpcpy)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (strcspn)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (__mempcpy)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os (memset)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os) (gettimeofday)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setitimer.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os) (__setitimer)
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+                              /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os) (__GI___dl_iterate_phdr)
+
+Merging program properties
+
+
+Discarded input sections
+
+ COMMON         0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-errno.os)
+ COMMON         0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettid.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+LOAD /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.property
+                0x0000000000000000       0x20
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000000000    0x20b1a
+ *(.text .stub)
+ .text          0x0000000000000000    0x1b540 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x0000000000000008                _dl_start_user
+                0x00000000000012f0                handle_preload_list
+                0x0000000000007a10                _dl_dst_count
+                0x0000000000007ac0                _dl_dst_substitute
+                0x0000000000008210                _dl_init_paths
+                0x0000000000008560                _dl_map_object
+                0x0000000000009000                _dl_rtld_di_serinfo
+                0x0000000000009f60                _dl_lookup_symbol_x
+                0x000000000000aef0                _dl_setup_hash
+                0x000000000000afb0                _dl_add_to_namespace_list
+                0x000000000000b050                _dl_new_object
+                0x000000000000b480                _dl_try_allocate_static_tls
+                0x000000000000b580                _dl_allocate_static_tls
+                0x000000000000b5c0                _dl_nothread_init_static_tls
+                0x000000000000b610                _dl_protect_relro
+                0x000000000000b680                _dl_reloc_bad_type
+                0x000000000000b750                _dl_relocate_object
+                0x000000000000d200                _dl_map_object_deps
+                0x000000000000e300                _dl_important_hwcaps
+                0x000000000000eb70                _dl_fixup
+                0x000000000000ed30                _dl_profile_fixup
+                0x000000000000f3f0                _dl_call_pltexit
+                0x000000000000f680                _dl_init
+                0x000000000000f7c0                _dl_fini
+                0x000000000000fbf0                _dl_debug_state
+                0x000000000000fbf0                __GI__dl_debug_state
+                0x000000000000fc00                _dl_debug_initialize
+                0x0000000000010300                _dl_sysdep_read_whole_file
+                0x00000000000103a0                _dl_debug_printf
+                0x0000000000010450                _dl_debug_printf_c
+                0x0000000000010500                _dl_dprintf
+                0x00000000000105a0                _dl_name_match_p
+                0x0000000000010610                _dl_higher_prime_number
+                0x0000000000010660                _dl_strtoul
+                0x00000000000107c0                _dl_check_map_versions
+                0x0000000000010f30                _dl_check_all_versions
+                0x0000000000010fb0                _dl_start_profile
+                0x00000000000117d0                __GI__dl_mcount
+                0x00000000000117d0                _dl_mcount
+                0x0000000000011d60                _dl_next_tls_modid
+                0x0000000000011e60                _dl_count_modids
+                0x0000000000011ed0                _dl_determine_tlsoffset
+                0x0000000000012080                _dl_get_tls_static_info
+                0x00000000000120a0                _dl_allocate_tls_storage
+                0x0000000000012170                __GI__dl_allocate_tls_init
+                0x0000000000012170                _dl_allocate_tls_init
+                0x00000000000123a0                __GI__dl_allocate_tls
+                0x00000000000123a0                _dl_allocate_tls
+                0x00000000000123e0                _dl_deallocate_tls
+                0x00000000000123e0                __GI__dl_deallocate_tls
+                0x0000000000012460                _dl_update_slotinfo
+                0x00000000000126d0                __GI___tls_get_addr
+                0x00000000000126d0                ___tls_get_addr
+                0x0000000000012720                _dl_tls_get_addr_soft
+                0x00000000000127a0                _dl_add_to_slotinfo
+                0x00000000000128a0                __tls_get_addr_slow
+                0x00000000000128d0                _dl_get_origin
+                0x0000000000012a30                _dl_scope_free
+                0x0000000000012b10                _dl_make_stack_executable
+                0x0000000000012b10                __GI__dl_make_stack_executable
+                0x0000000000012e70                __GI__dl_find_dso_for_object
+                0x0000000000012e70                _dl_find_dso_for_object
+                0x0000000000012f40                _dl_open
+                0x0000000000013250                _dl_show_scope
+                0x0000000000014040                _dl_close_worker
+                0x00000000000151a0                _dl_close
+                0x0000000000015210                _dl_runtime_profile_avx512
+                0x0000000000015690                _dl_runtime_profile_avx
+                0x0000000000015b10                _dl_runtime_profile_sse
+                0x0000000000015d10                _dl_runtime_resolve_fxsave
+                0x0000000000015d90                _dl_runtime_resolve_xsave
+                0x0000000000015e60                _dl_runtime_resolve_xsavec
+                0x0000000000015f50                _dl_exception_create
+                0x0000000000015f50                __GI__dl_exception_create
+                0x0000000000016040                __GI__dl_exception_create_format
+                0x0000000000016040                _dl_exception_create_format
+                0x00000000000164b0                _dl_exception_free
+                0x00000000000164b0                __GI__dl_exception_free
+                0x00000000000164e0                _dl_sort_maps
+                0x00000000000167f0                _dl_cache_libcmp
+                0x00000000000168c0                _dl_load_cache_lookup
+                0x0000000000016f10                _dl_unload_cache
+                0x0000000000016ff0                __tunable_set_val
+                0x0000000000017020                __GI___tunables_init
+                0x0000000000017500                __tunable_get_val
+                0x0000000000017500                __GI___tunable_get_val
+                0x0000000000017570                _dl_make_tlsdesc_dynamic
+                0x0000000000017870                _dl_tlsdesc_resolve_rela_fixup
+                0x0000000000017a30                _dl_tlsdesc_resolve_hold_fixup
+                0x0000000000017a70                _dl_unmap
+                0x0000000000017af0                _dl_tlsdesc_return
+                0x0000000000017b00                _dl_tlsdesc_undefweak
+                0x0000000000017b20                _dl_tlsdesc_dynamic
+                0x0000000000017bc0                _dl_tlsdesc_resolve_rela
+                0x0000000000017c40                _dl_tlsdesc_resolve_hold
+                0x0000000000017cc0                __tls_get_addr
+                0x0000000000017d10                __get_cpu_features
+                0x0000000000018330                _dl_cet_open_check
+                0x0000000000018340                _dl_cet_check
+                0x0000000000018350                _dl_tunable_set_hwcaps
+                0x0000000000019070                _dl_tunable_set_x86_ibt
+                0x0000000000019100                _dl_tunable_set_x86_shstk
+                0x0000000000019520                _dl_sysdep_start
+                0x0000000000019e40                _dl_sysdep_start_cleanup
+                0x0000000000019e50                _dl_show_auxv
+                0x000000000001a000                _dl_discover_osversion
+                0x000000000001a1e0                _dl_next_ld_env_entry
+                0x000000000001a230                unsetenv
+                0x000000000001a2c0                malloc
+                0x000000000001a3e0                calloc
+                0x000000000001a420                free
+                0x000000000001a460                __sigjmp_save
+                0x000000000001a470                __strerror_r
+                0x000000000001a560                __GI___libc_fatal
+                0x000000000001a560                __libc_fatal
+                0x000000000001a590                __GI___chk_fail
+                0x000000000001a590                __chk_fail
+                0x000000000001a5b0                __GI___assert_fail
+                0x000000000001a5b0                __assert_fail
+                0x000000000001a610                realloc
+                0x000000000001a6a0                __GI___assert_perror_fail
+                0x000000000001a6a0                __assert_perror_fail
+                0x000000000001a710                _itoa
+                0x000000000001a770                __strsep
+                0x000000000001a770                strsep
+                0x000000000001a770                __strsep_g
+                0x000000000001a8b0                _dl_signal_exception
+                0x000000000001a900                _dl_signal_error
+                0x000000000001a960                _dl_signal_cexception
+                0x000000000001a9f0                _dl_signal_cerror
+                0x000000000001aa80                _dl_catch_exception
+                0x000000000001ab70                _dl_catch_error
+                0x000000000001abc0                _dl_receive_error
+                0x000000000001ac10                _dl_resolve_conflicts
+                0x000000000001ad70                __brk
+                0x000000000001ad70                brk
+                0x000000000001adc0                sbrk
+                0x000000000001adc0                __sbrk
+                0x000000000001ae60                __getcwd
+                0x000000000001ae60                getcwd
+                0x000000000001b2e0                openat64
+                0x000000000001b340                __alloc_dir
+                0x000000000001b440                __opendir
+                0x000000000001b440                opendir
+                0x000000000001b4f0                __fxstatat
+                0x000000000001b4f0                __fxstatat64
+                0x000000000001b4f0                __GI___fxstatat64
+ .text          0x000000000001b540       0xe6 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+                0x000000000001b5f0                __libc_check_standard_fds
+ .text          0x000000000001b626        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-errno.os)
+ *fill*         0x000000000001b626        0xa 
+ .text          0x000000000001b630       0x29 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+                0x000000000001b630                __closedir
+                0x000000000001b630                closedir
+ *fill*         0x000000000001b659        0x7 
+ .text          0x000000000001b660       0x34 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                0x000000000001b660                rewinddir
+                0x000000000001b660                __rewinddir
+ *fill*         0x000000000001b694        0xc 
+ .text          0x000000000001b6a0       0x90 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+                0x000000000001b6a0                readdir
+                0x000000000001b6a0                __readdir64
+                0x000000000001b6a0                __readdir
+                0x000000000001b6a0                readdir64
+ .text          0x000000000001b730       0x9e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                0x000000000001b730                fdopendir
+                0x000000000001b730                __fdopendir
+ *fill*         0x000000000001b7ce        0x2 
+ .text          0x000000000001b7d0       0x38 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+                0x000000000001b7d0                __getdents
+                0x000000000001b7d0                getdents64
+                0x000000000001b7d0                __getdents64
+ *fill*         0x000000000001b808        0x8 
+ .text          0x000000000001b810       0x7b /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                0x000000000001b810                _dl_addr_inside_object
+ *fill*         0x000000000001b88b        0x5 
+ .text          0x000000000001b890      0x5f7 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+                0x000000000001b890                callback
+                0x000000000001b8b0                pc2index
+                0x000000000001b8d0                readval
+                0x000000000001ba40                check_timer
+                0x000000000001bdb0                __profil
+                0x000000000001bdb0                profil
+ *fill*         0x000000000001be87        0x9 
+ .text          0x000000000001be90        0xd /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                0x000000000001be90                __profile_frequency
+ *fill*         0x000000000001be9d        0x3 
+ .text          0x000000000001bea0       0x50 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+                0x000000000001bea0                _xstat
+                0x000000000001bea0                __xstat64
+                0x000000000001bea0                __GI___xstat64
+                0x000000000001bea0                __GI___xstat
+                0x000000000001bea0                __xstat
+ .text          0x000000000001bef0       0x50 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+                0x000000000001bef0                __GI___fxstat
+                0x000000000001bef0                __GI___fxstat64
+                0x000000000001bef0                __fxstat64
+                0x000000000001bef0                _fxstat
+                0x000000000001bef0                __fxstat
+ .text          0x000000000001bf40       0x50 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+                0x000000000001bf40                __GI___lxstat
+                0x000000000001bf40                _lxstat
+                0x000000000001bf40                __lxstat
+                0x000000000001bf40                __lxstat64
+                0x000000000001bf40                __GI___lxstat64
+ .text          0x000000000001bf90       0x28 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+                0x000000000001bf90                __lseek64
+                0x000000000001bf90                lseek
+                0x000000000001bf90                __libc_lseek64
+                0x000000000001bf90                __lseek
+                0x000000000001bf90                __libc_lseek
+                0x000000000001bf90                lseek64
+ *fill*         0x000000000001bfb8        0x8 
+ .text          0x000000000001bfc0       0x26 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+                0x000000000001bfc0                access
+                0x000000000001bfc0                __access
+ *fill*         0x000000000001bfe6        0xa 
+ .text          0x000000000001bff0       0x26 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                0x000000000001bff0                __GI___close_nocancel
+ *fill*         0x000000000001c016        0xa 
+ .text          0x000000000001c020       0x93 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                0x000000000001c020                __fcntl64_nocancel_adjusted
+                0x000000000001c080                __fcntl64_nocancel
+                0x000000000001c080                __GI___fcntl64_nocancel
+ *fill*         0x000000000001c0b3        0xd 
+ .text          0x000000000001c0c0       0x7e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                0x000000000001c0c0                __GI___open_nocancel
+                0x000000000001c0c0                __open_nocancel
+                0x000000000001c0c0                __GI___open64_nocancel
+                0x000000000001c0c0                __open64_nocancel
+ *fill*         0x000000000001c13e        0x2 
+ .text          0x000000000001c140       0x66 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+                0x000000000001c140                __GI___openat64_nocancel
+                0x000000000001c140                __openat64_nocancel
+                0x000000000001c140                __GI___openat_nocancel
+                0x000000000001c140                __openat_nocancel
+ *fill*         0x000000000001c1a6        0xa 
+ .text          0x000000000001c1b0       0x28 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                0x000000000001c1b0                __read_nocancel
+                0x000000000001c1b0                __GI___read_nocancel
+ *fill*         0x000000000001c1d8        0x8 
+ .text          0x000000000001c1e0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                0x000000000001c1e0                __GI___pread64_nocancel
+                0x000000000001c1e0                __pread64_nocancel
+ .text          0x000000000001c210       0x28 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                0x000000000001c210                __GI___write_nocancel
+                0x000000000001c210                __write_nocancel
+ *fill*         0x000000000001c238        0x8 
+ .text          0x000000000001c240       0xaa /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                0x000000000001c240                __libc_scratch_buffer_set_array_size
+ *fill*         0x000000000001c2ea        0x6 
+ .text          0x000000000001c2f0       0x99 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+                0x000000000001c2f0                __mmap
+                0x000000000001c2f0                mmap
+                0x000000000001c2f0                __mmap64
+                0x000000000001c2f0                mmap64
+ *fill*         0x000000000001c389        0x7 
+ .text          0x000000000001c390       0x24 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-munmap.os)
+                0x000000000001c390                munmap
+                0x000000000001c390                __GI___munmap
+                0x000000000001c390                __GI_munmap
+                0x000000000001c390                __munmap
+ *fill*         0x000000000001c3b4        0xc 
+ .text          0x000000000001c3c0       0x24 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mprotect.os)
+                0x000000000001c3c0                __mprotect
+                0x000000000001c3c0                __GI___mprotect
+                0x000000000001c3c0                __GI_mprotect
+                0x000000000001c3c0                mprotect
+ *fill*         0x000000000001c3e4        0xc 
+ .text          0x000000000001c3f0        0xc /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettid.os)
+                0x000000000001c3f0                gettid
+                0x000000000001c3f0                __GI_gettid
+                0x000000000001c3f0                __GI___gettid
+                0x000000000001c3f0                __gettid
+ *fill*         0x000000000001c3fc        0x4 
+ .text          0x000000000001c400       0x24 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-uname.os)
+                0x000000000001c400                uname
+                0x000000000001c400                __GI_uname
+                0x000000000001c400                __uname
+                0x000000000001c400                __GI___uname
+ *fill*         0x000000000001c424        0xc 
+ .text          0x000000000001c430       0x4a /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+                0x000000000001c430                _Exit
+                0x000000000001c430                __GI__exit
+                0x000000000001c430                _exit
+ *fill*         0x000000000001c47a        0x6 
+ .text          0x000000000001c480        0xc /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getpid.os)
+                0x000000000001c480                __getpid
+                0x000000000001c480                getpid
+                0x000000000001c480                __GI_getpid
+                0x000000000001c480                __GI___getpid
+ .text          0x000000000001c48c        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-environ.os)
+ *fill*         0x000000000001c48c        0x4 
+ .text          0x000000000001c490       0x5e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setjmp.os)
+                0x000000000001c490                __sigsetjmp
+                0x000000000001c490                __GI___sigsetjmp
+ *fill*         0x000000000001c4ee        0x2 
+ .text          0x000000000001c4f0       0x7c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                0x000000000001c4f0                __longjmp
+ *fill*         0x000000000001c56c        0x4 
+ .text          0x000000000001c570      0x1f0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+                0x000000000001c590                __libc_sigaction
+                0x000000000001c730                sigaction
+                0x000000000001c730                __sigaction
+ .text          0x000000000001c760       0x40 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+                0x000000000001c760                __strdup
+                0x000000000001c760                strdup
+ .text          0x000000000001c7a0     0x1449 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+                0x000000000001c7a0                strcmp
+ *fill*         0x000000000001dbe9        0x7 
+ .text          0x000000000001dbf0     0x1859 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+                0x000000000001dbf0                strncmp
+ *fill*         0x000000000001f449        0x7 
+ .text          0x000000000001f450      0x323 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+                0x000000000001f450                memchr
+                0x000000000001f450                __memchr
+ *fill*         0x000000000001f773        0xd 
+ .text          0x000000000001f780      0x209 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+                0x000000000001f780                __rawmemchr
+                0x000000000001f780                rawmemchr
+ *fill*         0x000000000001f989        0x7 
+ .text          0x000000000001f990      0x400 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+                0x000000000001f990                bcmp
+                0x000000000001f990                memcmp
+ .text          0x000000000001fd90      0x22a /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+                0x000000000001fd90                index
+                0x000000000001fd90                strchr
+ *fill*         0x000000000001ffba        0x6 
+ .text          0x000000000001ffc0      0x19c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+                0x000000000001ffc0                strlen
+ *fill*         0x000000000002015c        0x4 
+ .text          0x0000000000020160      0x218 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+                0x0000000000020160                __strnlen
+                0x0000000000020160                strnlen
+ *fill*         0x0000000000020378        0x8 
+ .text          0x0000000000020380       0xec /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+                0x0000000000020380                stpcpy
+                0x0000000000020380                __stpcpy
+ *fill*         0x000000000002046c        0x4 
+ .text          0x0000000000020470       0xa7 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+                0x0000000000020470                strcspn
+ *fill*         0x0000000000020517        0x9 
+ .text          0x0000000000020520      0x1f1 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+                0x0000000000020520                mempcpy
+                0x0000000000020520                __mempcpy
+                0x0000000000020530                memmove
+                0x0000000000020530                memcpy
+ *fill*         0x0000000000020711        0xf 
+ .text          0x0000000000020720       0xde /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+                0x0000000000020720                memset
+ *fill*         0x00000000000207fe        0x2 
+ .text          0x0000000000020800      0x118 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+                0x0000000000020840                __gettimeofday
+                0x0000000000020840                gettimeofday
+ *fill*         0x0000000000020918        0x8 
+ .text          0x0000000000020920       0x24 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setitimer.os)
+                0x0000000000020920                setitimer
+                0x0000000000020920                __setitimer
+                0x0000000000020920                __GI_setitimer
+                0x0000000000020920                __GI___setitimer
+ *fill*         0x0000000000020944        0xc 
+ .text          0x0000000000020950      0x1ca /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+                0x0000000000020950                dl_iterate_phdr
+                0x0000000000020950                __GI___dl_iterate_phdr
+                0x0000000000020950                __dl_iterate_phdr
+ *(.gnu.warning)
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000      0xf68
+ *(.rodata)
+ .rodata        0x0000000000000000      0xea4 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+ *fill*         0x0000000000000ea4       0x1c 
+ .rodata        0x0000000000000ec0       0x22 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+                0x0000000000000ec0                x86_64_regstr_tbl
+ *fill*         0x0000000000000ee2        0x6 
+ .rodata        0x0000000000000ee8       0x40 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .rodata        0x0000000000000f28       0x40 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+
+.rodata.str1.1  0x0000000000000000     0x13e5
+ .rodata.str1.1
+                0x0000000000000000     0x13b3 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x00000000000013b3       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .rodata.str1.1
+                0x00000000000013c7       0x1e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+
+.rodata.str1.8  0x0000000000000000     0x28f9
+ .rodata.str1.8
+                0x0000000000000000     0x28f9 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+
+.rodata.str1.16
+                0x0000000000000000      0x3a6
+ .rodata.str1.16
+                0x0000000000000000      0x3a6 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+                0x0000000000000370                __GI__itoa_lower_digits
+                0x0000000000000370                _itoa_lower_digits
+
+.rodata.cst16   0x0000000000000000       0x20
+ .rodata.cst16  0x0000000000000000       0x10 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+ .rodata.cst16  0x0000000000000010       0x10 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+
+.rodata.str1.32
+                0x0000000000000000       0x9b
+ .rodata.str1.32
+                0x0000000000000000       0x9b /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+
+.rodata.cst2    0x0000000000000000        0x2
+ .rodata.cst2   0x0000000000000000        0x2 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+                0x0000000000000000                reg_table_size
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x3268
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x2658 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+                                       0x269c (size before relaxing)
+ *fill*         0x0000000000002658        0x0 
+ .eh_frame      0x0000000000002658       0x68 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .eh_frame      0x00000000000026c0       0x38 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+ .eh_frame      0x00000000000026f8       0x38 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .eh_frame      0x0000000000002730       0x50 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .eh_frame      0x0000000000002780       0x50 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .eh_frame      0x00000000000027d0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .eh_frame      0x0000000000002800       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .eh_frame      0x0000000000002830      0x100 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+ .eh_frame      0x0000000000002930       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .eh_frame      0x0000000000002960       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+ .eh_frame      0x0000000000002990       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .eh_frame      0x00000000000029c0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .eh_frame      0x00000000000029f0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .eh_frame      0x0000000000002a20       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+ .eh_frame      0x0000000000002a50       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .eh_frame      0x0000000000002a80       0x48 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .eh_frame      0x0000000000002ac8       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .eh_frame      0x0000000000002af8       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .eh_frame      0x0000000000002b28       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .eh_frame      0x0000000000002b58       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .eh_frame      0x0000000000002b88       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .eh_frame      0x0000000000002bb8       0x58 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .eh_frame      0x0000000000002c10       0x48 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .eh_frame      0x0000000000002c58       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-munmap.os)
+ .eh_frame      0x0000000000002c88       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .eh_frame      0x0000000000002cb8       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettid.os)
+ .eh_frame      0x0000000000002ce8       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-uname.os)
+ .eh_frame      0x0000000000002d18       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+ .eh_frame      0x0000000000002d48       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getpid.os)
+ .eh_frame      0x0000000000002d78       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .eh_frame      0x0000000000002da8       0x48 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .eh_frame      0x0000000000002df0       0xe0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+                                         0xe8 (size before relaxing)
+ .eh_frame      0x0000000000002ed0       0x50 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+ .eh_frame      0x0000000000002f20       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .eh_frame      0x0000000000002f50       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .eh_frame      0x0000000000002f80       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .eh_frame      0x0000000000002fb0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .eh_frame      0x0000000000002fe0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .eh_frame      0x0000000000003010       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .eh_frame      0x0000000000003040       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .eh_frame      0x0000000000003070       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .eh_frame      0x00000000000030a0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .eh_frame      0x00000000000030d0       0x38 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .eh_frame      0x0000000000003108       0x40 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .eh_frame      0x0000000000003148       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .eh_frame      0x0000000000003178       0x58 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+ .eh_frame      0x00000000000031d0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .eh_frame      0x0000000000003200       0x68 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+
+.got.plt
+ *(.got.plt)
+
+.data           0x0000000000000000      0xfb1
+ *(.data)
+ .data          0x0000000000000000      0xf98 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000f98        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .data          0x0000000000000f98        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-errno.os)
+ .data          0x0000000000000f98        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+ .data          0x0000000000000f98        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .data          0x0000000000000f98        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .data          0x0000000000000f98        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .data          0x0000000000000f98        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .data          0x0000000000000f98        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ *fill*         0x0000000000000f98        0x8 
+ .data          0x0000000000000fa0       0x11 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-munmap.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettid.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-uname.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getpid.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-environ.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .data          0x0000000000000fb1        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+
+.data.rel.ro    0x0000000000000000      0x944
+ .data.rel.ro   0x0000000000000000      0x944 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+                0x00000000000000d0                __pointer_chk_guard_local
+                0x00000000000000d8                _dl_skip_args
+                0x00000000000000e0                __GI__dl_argv
+                0x00000000000000e0                _dl_argv
+                0x00000000000000e8                _dl_argc
+                0x0000000000000100                _rtld_global_ro
+                0x0000000000000100                _rtld_local_ro
+                0x0000000000000360                __stack_prot
+                0x0000000000000930                _dl_random
+                0x0000000000000938                __libc_stack_end
+                0x0000000000000938                __GI___libc_stack_end
+                0x0000000000000940                __GI___libc_enable_secure
+                0x0000000000000940                __libc_enable_secure
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x190
+ *(.bss)
+ .bss           0x0000000000000000      0x118 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+                0x00000000000000e0                __libc_multiple_libcs
+                0x0000000000000110                __curbrk
+ .bss           0x0000000000000118        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .bss           0x0000000000000118        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-errno.os)
+ .bss           0x0000000000000118        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+ .bss           0x0000000000000118        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .bss           0x0000000000000118        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .bss           0x0000000000000118        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .bss           0x0000000000000118        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .bss           0x0000000000000118        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ *fill*         0x0000000000000118        0x8 
+ .bss           0x0000000000000120       0x68 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+                0x0000000000000120                load_address
+                0x0000000000000128                gmonparam_shadow
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-munmap.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettid.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-uname.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+ .bss           0x0000000000000188        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getpid.os)
+ .bss           0x0000000000000188        0x8 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-environ.os)
+                0x0000000000000188                _environ
+                0x0000000000000188                __environ
+                0x0000000000000188                environ
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .bss           0x0000000000000190        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+
+.lbss
+ *(.lbss)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xbb0
+ *(.comment)
+ .comment       0x0000000000000000      0x688 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+ .comment       0x0000000000000688       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .comment       0x00000000000006b4       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-errno.os)
+ .comment       0x00000000000006e0       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+ .comment       0x000000000000070c       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .comment       0x0000000000000738       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .comment       0x0000000000000764       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .comment       0x0000000000000790       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .comment       0x00000000000007bc       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .comment       0x00000000000007e8       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+ .comment       0x0000000000000814       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .comment       0x0000000000000840       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+ .comment       0x000000000000086c       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .comment       0x0000000000000898       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .comment       0x00000000000008c4       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .comment       0x00000000000008f0       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+ .comment       0x000000000000091c       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .comment       0x0000000000000948       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .comment       0x0000000000000974       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .comment       0x00000000000009a0       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .comment       0x00000000000009cc       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .comment       0x00000000000009f8       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .comment       0x0000000000000a24       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .comment       0x0000000000000a50       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .comment       0x0000000000000a7c       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .comment       0x0000000000000aa8       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+ .comment       0x0000000000000ad4       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-environ.os)
+ .comment       0x0000000000000b00       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .comment       0x0000000000000b2c       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+ .comment       0x0000000000000b58       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+ .comment       0x0000000000000b84       0x2c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x10f0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x7b0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+ .debug_aranges
+                0x00000000000007b0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_aranges
+                0x00000000000007e0       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_aranges
+                0x0000000000000800       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_aranges
+                0x0000000000000830       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_aranges
+                0x0000000000000860       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_aranges
+                0x0000000000000890       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_aranges
+                0x00000000000008c0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_aranges
+                0x00000000000008f0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_aranges
+                0x0000000000000920       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_aranges
+                0x0000000000000950       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_aranges
+                0x0000000000000980       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_aranges
+                0x00000000000009b0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_aranges
+                0x00000000000009e0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_aranges
+                0x0000000000000a10       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_aranges
+                0x0000000000000a40       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_aranges
+                0x0000000000000a70       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_aranges
+                0x0000000000000aa0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_aranges
+                0x0000000000000ad0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_aranges
+                0x0000000000000b00       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_aranges
+                0x0000000000000b30       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_aranges
+                0x0000000000000b60       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_aranges
+                0x0000000000000b90       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_aranges
+                0x0000000000000bc0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_aranges
+                0x0000000000000bf0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_aranges
+                0x0000000000000c20       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_aranges
+                0x0000000000000c50       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_aranges
+                0x0000000000000c80       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettid.os)
+ .debug_aranges
+                0x0000000000000cb0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_aranges
+                0x0000000000000ce0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_aranges
+                0x0000000000000d10       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_aranges
+                0x0000000000000d40       0x20 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_aranges
+                0x0000000000000d60       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_aranges
+                0x0000000000000d90       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_aranges
+                0x0000000000000dc0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_aranges
+                0x0000000000000df0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_aranges
+                0x0000000000000e20       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_aranges
+                0x0000000000000e50       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_aranges
+                0x0000000000000e80       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_aranges
+                0x0000000000000eb0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_aranges
+                0x0000000000000ee0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_aranges
+                0x0000000000000f10       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_aranges
+                0x0000000000000f40       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_aranges
+                0x0000000000000f70       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_aranges
+                0x0000000000000fa0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_aranges
+                0x0000000000000fd0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_aranges
+                0x0000000000001000       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000001030       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000001060       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+ .debug_aranges
+                0x0000000000001090       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_aranges
+                0x00000000000010c0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0xcacd1
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0xa1a0b /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+ .debug_info    0x00000000000a1a0b      0xb37 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_info    0x00000000000a2542      0x6cb /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_info    0x00000000000a2c0d     0x1e39 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_info    0x00000000000a4a46     0x1dfb /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_info    0x00000000000a6841     0x1ef0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_info    0x00000000000a8731     0x1fce /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_info    0x00000000000aa6ff     0x1d86 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_info    0x00000000000ac485     0x2984 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_info    0x00000000000aee09     0x3af3 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_info    0x00000000000b28fc     0x3c16 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_info    0x00000000000b6512      0x93d /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_info    0x00000000000b6e4f      0x93c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_info    0x00000000000b778b      0x93d /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_info    0x00000000000b80c8      0x83b /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_info    0x00000000000b8903      0x800 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_info    0x00000000000b9103      0x7d3 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_info    0x00000000000b98d6      0xb0e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_info    0x00000000000ba3e4      0x8ff /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_info    0x00000000000bace3      0x918 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_info    0x00000000000bb5fb      0x859 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_info    0x00000000000bbe54      0x89b /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_info    0x00000000000bc6ef      0x85e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_info    0x00000000000bcf4d      0x3ef /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_info    0x00000000000bd33c     0x4090 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_info    0x00000000000c13cc       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_info    0x00000000000c13fa       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_info    0x00000000000c1428       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettid.os)
+ .debug_info    0x00000000000c1456       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_info    0x00000000000c1484      0x818 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_info    0x00000000000c1c9c       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_info    0x00000000000c1cca      0x103 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_info    0x00000000000c1dcd       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_info    0x00000000000c1dfb       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_info    0x00000000000c1e29      0xdd5 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_info    0x00000000000c2bfe      0x226 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_info    0x00000000000c2e24       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_info    0x00000000000c2e52       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_info    0x00000000000c2e80       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_info    0x00000000000c2eae       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_info    0x00000000000c2edc       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_info    0x00000000000c2f0a       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_info    0x00000000000c2f38       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_info    0x00000000000c2f66       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_info    0x00000000000c2f94       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_info    0x00000000000c2fc2       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_info    0x00000000000c2ff0       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_info    0x00000000000c301e       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_info    0x00000000000c304c     0x3dd6 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+ .debug_info    0x00000000000c6e22       0x2e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_info    0x00000000000c6e50     0x3e81 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+
+.debug_abbrev   0x0000000000000000    0x128f1
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0xd655 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+ .debug_abbrev  0x000000000000d655      0x25a /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_abbrev  0x000000000000d8af      0x143 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_abbrev  0x000000000000d9f2      0x3c0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_abbrev  0x000000000000ddb2      0x387 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_abbrev  0x000000000000e139      0x3b8 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_abbrev  0x000000000000e4f1      0x3bb /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_abbrev  0x000000000000e8ac      0x391 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_abbrev  0x000000000000ec3d      0x3c6 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_abbrev  0x000000000000f003      0x6b9 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_abbrev  0x000000000000f6bc      0x3f9 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_abbrev  0x000000000000fab5      0x1b2 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_abbrev  0x000000000000fc67      0x1c6 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_abbrev  0x000000000000fe2d      0x1b2 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_abbrev  0x000000000000ffdf      0x1ab /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_abbrev  0x000000000001018a      0x19a /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_abbrev  0x0000000000010324      0x19c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_abbrev  0x00000000000104c0      0x2b3 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_abbrev  0x0000000000010773      0x1dd /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_abbrev  0x0000000000010950      0x1eb /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_abbrev  0x0000000000010b3b      0x1b4 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_abbrev  0x0000000000010cef      0x1bf /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_abbrev  0x0000000000010eae      0x1b2 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_abbrev  0x0000000000011060      0x241 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_abbrev  0x00000000000112a1      0x4a7 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_abbrev  0x0000000000011748       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_abbrev  0x000000000001175c       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_abbrev  0x0000000000011770       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettid.os)
+ .debug_abbrev  0x0000000000011784       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_abbrev  0x0000000000011798      0x1a0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_abbrev  0x0000000000011938       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_abbrev  0x000000000001194c       0x97 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_abbrev  0x00000000000119e3       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_abbrev  0x00000000000119f7       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_abbrev  0x0000000000011a0b      0x2c0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_abbrev  0x0000000000011ccb      0x168 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_abbrev  0x0000000000011e33       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_abbrev  0x0000000000011e47       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_abbrev  0x0000000000011e5b       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_abbrev  0x0000000000011e6f       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_abbrev  0x0000000000011e83       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_abbrev  0x0000000000011e97       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_abbrev  0x0000000000011eab       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_abbrev  0x0000000000011ebf       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_abbrev  0x0000000000011ed3       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_abbrev  0x0000000000011ee7       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_abbrev  0x0000000000011efb       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_abbrev  0x0000000000011f0f       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_abbrev  0x0000000000011f23      0x4c9 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+ .debug_abbrev  0x00000000000123ec       0x14 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_abbrev  0x0000000000012400      0x4f1 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+
+.debug_line     0x0000000000000000    0x27f3c
+ *(.debug_line)
+ .debug_line    0x0000000000000000    0x1ff99 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+ .debug_line    0x000000000001ff99      0x303 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line    0x000000000002029c      0x17d /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line    0x0000000000020419      0x49b /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line    0x00000000000208b4      0x470 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line    0x0000000000020d24      0x501 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_line    0x0000000000021225      0x527 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line    0x000000000002174c      0x415 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_line    0x0000000000021b61      0x492 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line    0x0000000000021ff3      0xb26 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line    0x0000000000022b19      0x53d /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line    0x0000000000023056      0x24b /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_line    0x00000000000232a1      0x24c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_line    0x00000000000234ed      0x24c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_line    0x0000000000023739      0x223 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line    0x000000000002395c      0x22b /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line    0x0000000000023b87      0x231 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_line    0x0000000000023db8      0x2de /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_line    0x0000000000024096      0x2a4 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_line    0x000000000002433a      0x2c1 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_line    0x00000000000245fb      0x268 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_line    0x0000000000024863      0x274 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_line    0x0000000000024ad7      0x269 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_line    0x0000000000024d40      0x204 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_line    0x0000000000024f44      0x6a1 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line    0x00000000000255e5       0x5a /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line    0x000000000002563f       0x5a /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line    0x0000000000025699       0x57 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettid.os)
+ .debug_line    0x00000000000256f0       0x5a /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line    0x000000000002574a      0x273 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line    0x00000000000259bd       0x57 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line    0x0000000000025a14       0x75 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line    0x0000000000025a89       0x63 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line    0x0000000000025aec       0x71 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line    0x0000000000025b5d      0x3e5 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_line    0x0000000000025f42       0xf1 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line    0x0000000000026033      0x492 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_line    0x00000000000264c5      0x528 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_line    0x00000000000269ed      0x127 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_line    0x0000000000026b14       0xd5 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_line    0x0000000000026be9      0x14d /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_line    0x0000000000026d36       0xe0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_line    0x0000000000026e16       0xa6 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_line    0x0000000000026ebc       0xa8 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_line    0x0000000000026f64       0x97 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_line    0x0000000000026ffb       0x82 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_line    0x000000000002707d       0xfe /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_line    0x000000000002717b       0xad /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_line    0x0000000000027228      0x610 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+ .debug_line    0x0000000000027838       0x5a /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_line    0x0000000000027892      0x6aa /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x7c59f
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x5f5ca /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+ .debug_str     0x000000000005f5ca      0x7f8 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_str     0x000000000005fdc2      0x589 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_str     0x000000000006034b     0x1590 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_str     0x00000000000618db     0x1560 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_str     0x0000000000062e3b     0x15e2 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_str     0x000000000006441d     0x1692 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_str     0x0000000000065aaf     0x14d3 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_str     0x0000000000066f82     0x1c2d /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_str     0x0000000000068baf     0x269f /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_str     0x000000000006b24e     0x281e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_str     0x000000000006da6c      0x6f2 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_str     0x000000000006e15e      0x6f0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_str     0x000000000006e84e      0x6f5 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_str     0x000000000006ef43      0x668 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_str     0x000000000006f5ab      0x657 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_str     0x000000000006fc02      0x66c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_str     0x000000000007026e      0x759 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_str     0x00000000000709c7      0x6ff /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_str     0x00000000000710c6      0x715 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_str     0x00000000000717db      0x697 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_str     0x0000000000071e72      0x6bf /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_str     0x0000000000072531      0x69a /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_str     0x0000000000072bcb      0x35d /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_str     0x0000000000072f28     0x28f8 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_str     0x0000000000075820       0x6e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_str     0x000000000007588e       0x6e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_str     0x00000000000758fc       0x6e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettid.os)
+ .debug_str     0x000000000007596a       0x6f /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_str     0x00000000000759d9      0x649 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_str     0x0000000000076022       0x6f /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_str     0x0000000000076091      0x249 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_str     0x00000000000762da       0x68 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_str     0x0000000000076342       0x6b /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_str     0x00000000000763ad      0x844 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_str     0x0000000000076bf1      0x260 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_str     0x0000000000076e51       0x68 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_str     0x0000000000076eb9       0x68 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_str     0x0000000000076f21       0x75 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_str     0x0000000000076f96       0x78 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_str     0x000000000007700e       0x68 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_str     0x0000000000077076       0x75 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_str     0x00000000000770eb       0x75 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_str     0x0000000000077160       0x75 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_str     0x00000000000771d5       0x68 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_str     0x000000000007723d       0x69 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_str     0x00000000000772a6       0x86 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_str     0x000000000007732c       0x85 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_str     0x00000000000773b1     0x2863 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+ .debug_str     0x0000000000079c14       0x6e /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_str     0x0000000000079c82     0x291d /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+
+.debug_loc      0x0000000000000000    0x3d9b0
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000    0x39f21 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+ .debug_loc     0x0000000000039f21      0x1bd /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_loc     0x000000000003a0de       0x8c /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_loc     0x000000000003a16a       0x52 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_loc     0x000000000003a1bc      0x1f8 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_loc     0x000000000003a3b4       0xf8 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_loc     0x000000000003a4ac      0x1ce /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_loc     0x000000000003a67a      0x10a /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_loc     0x000000000003a784      0xd10 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_loc     0x000000000003b494      0x11f /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_loc     0x000000000003b5b3      0x11f /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_loc     0x000000000003b6d2      0x11f /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_loc     0x000000000003b7f1       0xd0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_loc     0x000000000003b8c1       0xab /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_loc     0x000000000003b96c       0x86 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_loc     0x000000000003b9f2      0x3e7 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_loc     0x000000000003bdd9      0x2f9 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_loc     0x000000000003c0d2      0x1d9 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_loc     0x000000000003c2ab       0xd0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_loc     0x000000000003c37b      0x144 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_loc     0x000000000003c4bf       0xd0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_loc     0x000000000003c58f      0x2fe /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_loc     0x000000000003c88d      0x5b1 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_loc     0x000000000003ce3e      0x19a /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_loc     0x000000000003cfd8      0x375 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_loc     0x000000000003d34d      0x11d /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_loc     0x000000000003d46a      0x1ac /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+ .debug_loc     0x000000000003d616      0x39a /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x9710
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x8ea0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/dl-allobjs.os
+ .debug_ranges  0x0000000000008ea0       0xa0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_ranges  0x0000000000008f40       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_ranges  0x0000000000008f70      0x190 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_ranges  0x0000000000009100       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_ranges  0x0000000000009130       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_ranges  0x0000000000009160       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_ranges  0x0000000000009190       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_ranges  0x00000000000091c0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_ranges  0x00000000000091f0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_ranges  0x0000000000009220       0x60 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_ranges  0x0000000000009280       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_ranges  0x00000000000092b0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_ranges  0x00000000000092e0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_ranges  0x0000000000009310       0x70 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_ranges  0x0000000000009380       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_ranges  0x00000000000093b0       0x30 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_ranges  0x00000000000093e0       0x40 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_ranges  0x0000000000009420       0xe0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_ranges  0x0000000000009500       0xf0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_ranges  0x00000000000095f0       0x70 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-gettimeofday.os)
+ .debug_ranges  0x0000000000009660       0xb0 /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/rtld-libc.a(rtld-dl-iteratephdr.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/elf/librtld.os elf64-x86-64)

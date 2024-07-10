@@ -1,0 +1,1 @@
+clang -fPIC  -Wl,-znodelete -lSegFault -shared  -o libHelloPass2.so CMakeFiles/HelloPass2.dir/hello_llvm.cc.o   -L/home/LLVM_MYSQL/llvm-project/build/./lib 

@@ -1,0 +1,17 @@
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/dummy.o: \
+ /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/dummy.c \
+ ../include/stdc-predef.h \
+ /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/LLVM_MYSQL/knob_profiler/glibcForPRELOAD/glibc-2.31/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
