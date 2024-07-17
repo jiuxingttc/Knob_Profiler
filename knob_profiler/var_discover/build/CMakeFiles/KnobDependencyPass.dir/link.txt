@@ -1,1 +1,1 @@
-clang -fPIC  -Wl,-znodelete -lSegFault -shared  -o libKnobDependencyPass.so CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.o   -L/home/LLVM_MYSQL/llvm-project/build/./lib 
+clang -fPIC  -Wl,-znodelete -lSegFault -shared  -o libKnobDependencyPass.so CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.o   -L/home/LLVM_MYSQL/llvm-project/build/./lib 

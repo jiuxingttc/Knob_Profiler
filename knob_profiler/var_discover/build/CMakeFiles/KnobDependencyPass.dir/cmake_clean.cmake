@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.o"
+  "CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.o"
   "libKnobDependencyPass.pdb"
   "libKnobDependencyPass.so"
 )

@@ -202,32 +202,32 @@ hello_llvm.cc.s:
 	$(MAKE) -f CMakeFiles/HelloPass2.dir/build.make CMakeFiles/HelloPass2.dir/hello_llvm.cc.s
 .PHONY : hello_llvm.cc.s
 
-knob_deps_pass.o: knob_deps_pass.cc.o
+knob_deps_pass_test.o: knob_deps_pass_test.cc.o
 
-.PHONY : knob_deps_pass.o
+.PHONY : knob_deps_pass_test.o
 
 # target to build an object file
-knob_deps_pass.cc.o:
-	$(MAKE) -f CMakeFiles/KnobDependencyPass.dir/build.make CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.o
-.PHONY : knob_deps_pass.cc.o
+knob_deps_pass_test.cc.o:
+	$(MAKE) -f CMakeFiles/KnobDependencyPass.dir/build.make CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.o
+.PHONY : knob_deps_pass_test.cc.o
 
-knob_deps_pass.i: knob_deps_pass.cc.i
+knob_deps_pass_test.i: knob_deps_pass_test.cc.i
 
-.PHONY : knob_deps_pass.i
+.PHONY : knob_deps_pass_test.i
 
 # target to preprocess a source file
-knob_deps_pass.cc.i:
-	$(MAKE) -f CMakeFiles/KnobDependencyPass.dir/build.make CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.i
-.PHONY : knob_deps_pass.cc.i
+knob_deps_pass_test.cc.i:
+	$(MAKE) -f CMakeFiles/KnobDependencyPass.dir/build.make CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.i
+.PHONY : knob_deps_pass_test.cc.i
 
-knob_deps_pass.s: knob_deps_pass.cc.s
+knob_deps_pass_test.s: knob_deps_pass_test.cc.s
 
-.PHONY : knob_deps_pass.s
+.PHONY : knob_deps_pass_test.s
 
 # target to generate assembly for a file
-knob_deps_pass.cc.s:
-	$(MAKE) -f CMakeFiles/KnobDependencyPass.dir/build.make CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.s
-.PHONY : knob_deps_pass.cc.s
+knob_deps_pass_test.cc.s:
+	$(MAKE) -f CMakeFiles/KnobDependencyPass.dir/build.make CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.s
+.PHONY : knob_deps_pass_test.cc.s
 
 # Help Target
 help:
@@ -245,9 +245,9 @@ help:
 	@echo "... hello_llvm.o"
 	@echo "... hello_llvm.i"
 	@echo "... hello_llvm.s"
-	@echo "... knob_deps_pass.o"
-	@echo "... knob_deps_pass.i"
-	@echo "... knob_deps_pass.s"
+	@echo "... knob_deps_pass_test.o"
+	@echo "... knob_deps_pass_test.i"
+	@echo "... knob_deps_pass_test.s"
 .PHONY : help
 
 

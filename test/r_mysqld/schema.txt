@@ -1,0 +1,361 @@
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc thd_mem_cnt_alloc 1872 size size_t arg _Z17thd_mem_cnt_allocP3THDmPKc#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc thd_mem_cnt_alloc 1872 thd uintptr arg _Z17thd_mem_cnt_allocP3THDmPKc#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc thd_mem_cnt_free 1882 size size_t arg _Z16thd_mem_cnt_freeP3THDm#%2
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc thd_mem_cnt_free 1882 thd uintptr arg _Z16thd_mem_cnt_freeP3THDm#%2
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc my_str_malloc_mysqld 3937 size size_t arg my_str_malloc_mysqld#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc my_str_realloc_mysqld 3943 size size_t arg my_str_realloc_mysqld#%2
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc my_str_realloc_mysqld 3943 ptr uintptr arg my_str_realloc_mysqld#%2
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc check_secure_file_priv_path 11392 message uintptr arg _ZZL27check_secure_file_priv_pathvENK3$_2clEPcmPKc#%4
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc check_secure_file_priv_path 11392 buffer uintptr arg|cond _ZZL27check_secure_file_priv_pathvENK3$_2clEPcmPKc#%4
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc check_secure_file_priv_path 11392 len size_t cond|arg _ZZL27check_secure_file_priv_pathvENK3$_2clEPcmPKc#%4
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc test_lc_time_sz 7064 max_day_len size_t arg|cond _ZL15test_lc_time_szv#%15
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc test_lc_time_sz 7071 day uintptr cond|arg _ZL15test_lc_time_szv#%46
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc test_lc_time_sz 7065 month uintptr cond|arg _ZL15test_lc_time_szv#%15
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc test_lc_time_sz 7063 max_month_len size_t arg|cond _ZL15test_lc_time_szv#%15
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc test_lc_time_sz 7062 loc uintptr cond|arg _ZL15test_lc_time_szv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc test_lc_time_sz 7061 _db_trace uintptr arg _ZL15test_lc_time_szv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc rpl_make_log_name 4740 key PSI_memory_key arg _ZL17rpl_make_log_namejPKcS0_S0_#%4
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc rpl_make_log_name 4751 options unsigned#int arg|cond _ZL17rpl_make_log_namejPKcS0_S0_#%56
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc rpl_make_log_name 4750 base uintptr arg|cond _ZL17rpl_make_log_namejPKcS0_S0_#%44
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc rpl_make_log_name 4745 buff uintptr arg|cond _ZL17rpl_make_log_namejPKcS0_S0_#%44
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc rpl_make_log_name 4741 ext uintptr arg|cond _ZL17rpl_make_log_namejPKcS0_S0_#%4
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc rpl_make_log_name 4741 def uintptr arg _ZL17rpl_make_log_namejPKcS0_S0_#%4
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc rpl_make_log_name 4740 opt uintptr cond|arg _ZL17rpl_make_log_namejPKcS0_S0_#%4
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc rpl_make_log_name 4742 _db_trace uintptr arg _ZL17rpl_make_log_namejPKcS0_S0_#%4
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6922 log_lock uintptr arg _ZL22init_server_componentsv#%2024
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6854 default_se_handle uintptr arg|cond _ZL22init_server_componentsv#%1772
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6702 recreate_non_dd_based_system_view bool cond _ZL22init_server_componentsv#%1329
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6749 res_grp_mgr uintptr arg|cond _ZL22init_server_componentsv#%1444
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6684 st bool cond _ZL22init_server_componentsv#%1285
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6761 len size_t arg _ZL22init_server_componentsv#%1481
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6165 _db_trace uintptr arg _ZL22init_server_componentsv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6564 exit_code int arg _ZL22init_server_componentsv#%1065
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6778 no_opts uintptr arg|cond _ZL22init_server_componentsv#%1549
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6281 ln uintptr arg|cond _ZL22init_server_componentsv#%381
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6821 csv_name LEX_CSTRING arg|cond _ZL22init_server_componentsv#%1700
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6280 buf uintptr arg|cond _ZL22init_server_componentsv#%381
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6404 default_binlogfile_name_from_hostname uintptr arg _ZL22init_server_componentsv#%650
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6427 msg uintptr cond|arg _ZL22init_server_componentsv#%693
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6428 err longlong arg _ZL22init_server_componentsv#%693
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6609 restore_ehh Scope_guard<(lambda#at#/home/LLVM_MYSQL/mysql-8.0.36/sql/mysqld.cc:6609:43)> arg _ZL22init_server_componentsv#%1109
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6760 tmp_str uintptr arg|cond _ZL22init_server_componentsv#%1481
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6481 dummy int cond _ZL22init_server_componentsv#%872
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6585 flags int arg|cond _ZL22init_server_componentsv#%1077
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6861 default_tmp_se_handle uintptr arg|cond _ZL22init_server_componentsv#%1804
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6758 session_track_system_variables_check Session_tracker arg|cond _ZL22init_server_componentsv#%1481
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6635 plugin_name LEX_CSTRING arg|cond _ZL22init_server_componentsv#%1170
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6759 var_list LEX_STRING arg _ZL22init_server_componentsv#%1481
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6639 res_grp_mgr uintptr arg _ZL22init_server_componentsv#%1177
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_components 6650 dd_upgrade_was_initiated bool cond _ZL22init_server_componentsv#%1194
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_icu_data_directory 6153 in_install uintptr cond|arg _ZL23init_icu_data_directoryv#%51
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_icu_data_directory 6152 install_dir_buffer uintptr arg _ZL23init_icu_data_directoryv#%51
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_icu_data_directory 6147 in_build uintptr cond|arg _ZL23init_icu_data_directoryv#%41
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_icu_data_directory 6146 build_dir_buffer uintptr arg _ZL23init_icu_data_directoryv#%41
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_icu_data_directory 6137 env_icu_data uintptr cond|arg _ZL23init_icu_data_directoryv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc initialize_storage_engine 5683 old_dest_plugin plugin_ref arg _ZL25initialize_storage_enginePKcS0_PPP13st_plugin_int#%89
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc initialize_storage_engine 5662 dest_plugin uintptr cond _ZL25initialize_storage_enginePKcS0_PPP13st_plugin_int#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc initialize_storage_engine 5661 se_kind uintptr arg _ZL25initialize_storage_enginePKcS0_PPP13st_plugin_int#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc initialize_storage_engine 5664 plugin plugin_ref arg _ZL25initialize_storage_enginePKcS0_PPP13st_plugin_int#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc initialize_storage_engine 5665 hton uintptr arg|cond _ZL25initialize_storage_enginePKcS0_PPP13st_plugin_int#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc initialize_storage_engine 5663 name LEX_CSTRING arg|cond _ZL25initialize_storage_enginePKcS0_PPP13st_plugin_int#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc initialize_storage_engine 5661 se_name uintptr arg _ZL25initialize_storage_enginePKcS0_PPP13st_plugin_int#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc set_user 2890 user uintptr arg _ZL8set_userPKcRK11PasswdValue#%2
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc set_user 2890 user_info_arg uintptr arg|cond _ZL8set_userPKcRK11PasswdValue#%2
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc unireg_abort 2470 daemon_launcher_quiet bool cond _ZL12unireg_aborti#%70
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc unireg_abort 2446 exit_code int cond|arg _ZL12unireg_aborti#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc unireg_abort 2447 _db_trace uintptr arg _ZL12unireg_aborti#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc setup_error_log_components 6030 ll uintptr arg _ZL26setup_error_log_componentsv#%239
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc setup_error_log_components 5779 have_backtrace int cond _ZL26setup_error_log_componentsv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc setup_error_log_components 5907 default_services uintptr arg|cond _ZL26setup_error_log_componentsv#%134
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc setup_error_log_components 5906 var uintptr cond|arg _ZL26setup_error_log_componentsv#%131
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc setup_error_log_components 5884 len size_t arg _ZL26setup_error_log_componentsv#%114
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc setup_error_log_components 5883 buff uintptr arg _ZL26setup_error_log_componentsv#%114
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc setup_error_log_components 5831 problem uintptr arg _ZL26setup_error_log_componentsv#%49
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc setup_error_log_components 5852 var uintptr cond|arg _ZL26setup_error_log_componentsv#%64
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc setup_error_log_components 5832 var_name uintptr arg _ZL26setup_error_log_componentsv#%49
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc setup_error_log_components 5828 pos size_t arg|cond _ZL26setup_error_log_componentsv#%45
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc setup_error_log 5725 filename uintptr arg _ZL15setup_error_logv#%25
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc setup_error_log 5715 log_errors_to_file bool cond _ZL15setup_error_logv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc gtid_server_init 2558 res bool cond _Z16gtid_server_initv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_auto_options 5583 flush bool cond _ZL24init_server_auto_optionsv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_auto_options 5588 uuid uintptr arg|cond _ZL24init_server_auto_optionsv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_auto_options 5602 argv uintptr arg|cond _ZL24init_server_auto_optionsv#%47
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_auto_options 5614 alloc MEM_ROOT arg|cond _ZL24init_server_auto_optionsv#%80
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_auto_options 5584 fname uintptr arg|cond _ZL24init_server_auto_optionsv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_auto_options 5595 _db_trace uintptr arg _ZL24init_server_auto_optionsv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_auto_options 5589 auto_options uintptr arg|cond _ZL24init_server_auto_optionsv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_auto_options 5587 groups uintptr arg|cond _ZL24init_server_auto_optionsv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_auto_options 5603 argc int arg|cond _ZL24init_server_auto_optionsv#%47
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc init_server_auto_options 5585 name uintptr arg _ZL24init_server_auto_optionsv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc parse_replicate_rewrite_db 10317 val uintptr cond _ZL26parse_replicate_rewrite_dbPPcS0_S_#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc parse_replicate_rewrite_db 10317 key uintptr cond _ZL26parse_replicate_rewrite_dbPPcS0_S_#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc parse_replicate_rewrite_db 10317 argument uintptr arg|cond _ZL26parse_replicate_rewrite_dbPPcS0_S_#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc parse_replicate_rewrite_db 10319 p uintptr cond _ZL26parse_replicate_rewrite_dbPPcS0_S_#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc parse_replicate_rewrite_db 10318 _db_trace uintptr arg _ZL26parse_replicate_rewrite_dbPPcS0_S_#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10889 wrong_value uintptr cond|arg mysqld_get_one_option#%1042
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10773 p uintptr cond mysqld_get_one_option#%776
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10774 quote bool cond mysqld_get_one_option#%776
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10345 opt uintptr arg mysqld_get_one_option#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10773 name uintptr cond|arg mysqld_get_one_option#%776
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10351 sysvar uintptr cond|arg mysqld_get_one_option#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10365 source uintptr arg|cond mysqld_get_one_option#%65
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10376 ds uintptr cond|arg mysqld_get_one_option#%91
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10346 argument uintptr cond|arg mysqld_get_one_option#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10348 filter_val uintptr arg|cond mysqld_get_one_option#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10574 val uintptr arg|cond mysqld_get_one_option#%389
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10775 error bool cond mysqld_get_one_option#%776
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10349 channel_name uintptr arg mysqld_get_one_option#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10347 rpl_filter uintptr arg|cond mysqld_get_one_option#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10866 start uintptr cond mysqld_get_one_option#%1016
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10574 key uintptr arg|cond mysqld_get_one_option#%389
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10777 orig_argument uintptr arg mysqld_get_one_option#%776
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_get_one_option 10773 val uintptr cond|arg mysqld_get_one_option#%776
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc parse_filter_arg 10291 p uintptr cond _Z16parse_filter_argPPcS0_S_#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc parse_filter_arg 10288 argument uintptr arg _Z16parse_filter_argPPcS0_S_#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc parse_filter_arg 10289 _db_trace uintptr arg _Z16parse_filter_argPPcS0_S_#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc is_rpl_global_filter_setting 10275 p uintptr cond _ZL28is_rpl_global_filter_settingPc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc is_rpl_global_filter_setting 10271 argument uintptr arg _ZL28is_rpl_global_filter_settingPc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc is_rpl_global_filter_setting 10272 _db_trace uintptr arg _ZL28is_rpl_global_filter_settingPc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc show_ongoing_anonymous_gtid_violating_transaction_count 9459 buf uintptr arg _ZL55show_ongoing_anonymous_gtid_violating_transaction_countP3THDP8SHOW_VARPc#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc show_ongoing_anonymous_transaction_count 9470 buf uintptr arg _ZL40show_ongoing_anonymous_transaction_countP3THDP8SHOW_VARPc#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc show_ongoing_automatic_gtid_violating_transaction_count 9450 buf uintptr arg _ZL55show_ongoing_automatic_gtid_violating_transaction_countP3THDP8SHOW_VARPc#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc show_resource_group_support 9616 buf uintptr arg _ZL27show_resource_group_supportP3THDP8SHOW_VARPc#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc show_telemetry_traces_support 9625 buf uintptr arg _ZL29show_telemetry_traces_supportP3THDP8SHOW_VARPc#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc is_secure_file_path 11282 opt_secure_file_priv_len size_t arg|cond _Z19is_secure_file_pathPKc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc is_secure_file_path 11281 buff2 uintptr arg|cond _Z19is_secure_file_pathPKc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc is_secure_file_path 11299 length int cond|arg _Z19is_secure_file_pathPKc#%36
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc is_secure_file_path 11281 buff1 uintptr arg|cond _Z19is_secure_file_pathPKc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc is_secure_file_path 11280 path uintptr arg|cond _Z19is_secure_file_pathPKc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc Call_close_conn::operator 2291 main_sctx_user LEX_CSTRING cond|arg _ZN15Call_close_connclEP3THD#%17
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc Call_close_conn::operator 2289 closing_thd uintptr arg|cond _ZN15Call_close_connclEP3THD#%2
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc my_openssl_malloc 5387 size size_t arg _ZL17my_openssl_mallocmPKci#%3
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc my_openssl_realloc 5394 size size_t arg _ZL18my_openssl_reallocPvmPKci#%4
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc my_openssl_realloc 5394 ptr uintptr arg _ZL18my_openssl_reallocPvmPKci#%4
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc get_icu_data_directory_in_build_dir 6103 num_bytes_read size_t cond|arg _ZL35get_icu_data_directory_in_build_dirPc#%25
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc get_icu_data_directory_in_build_dir 6093 to uintptr arg _ZL35get_icu_data_directory_in_build_dirPc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc get_icu_data_directory_in_build_dir 6100 file File cond|arg _ZL35get_icu_data_directory_in_build_dirPc#%19
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc get_icu_data_directory_in_build_dir 6097 icudt_lnk_exists bool cond _ZL35get_icu_data_directory_in_build_dirPc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc get_icu_data_directory_in_build_dir 6096 stat_info stat arg _ZL35get_icu_data_directory_in_build_dirPc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc get_icu_data_directory_in_build_dir 6102 icudt_lnk_contents uintptr arg _ZL35get_icu_data_directory_in_build_dirPc#%25
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc get_icu_data_directory_in_build_dir 6094 icudt_path uintptr arg _ZL35get_icu_data_directory_in_build_dirPc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc get_icu_data_directory_in_install_dir 6119 to uintptr arg _ZL37get_icu_data_directory_in_install_dirPc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc get_icu_data_directory_in_install_dir 6120 buff uintptr arg _ZL37get_icu_data_directory_in_install_dirPc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc get_icu_data_directory_in_install_dir 6121 mysql_icu_datadir uintptr arg|cond _ZL37get_icu_data_directory_in_install_dirPc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc icu_data_directory_is_valid 6081 icu_unames_exists bool cond _ZL27icu_data_directory_is_validPKc#%28
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc icu_data_directory_is_valid 6079 icunames_path uintptr arg _ZL27icu_data_directory_is_validPKc#%28
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc icu_data_directory_is_valid 6076 icudt_dir_exists bool cond _ZL27icu_data_directory_is_validPKc#%17
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc icu_data_directory_is_valid 6074 icudt_path uintptr arg _ZL27icu_data_directory_is_validPKc#%17
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc icu_data_directory_is_valid 6071 directory_exists bool cond _ZL27icu_data_directory_is_validPKc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc icu_data_directory_is_valid 6070 stat_info stat arg _ZL27icu_data_directory_is_validPKc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc icu_data_directory_is_valid 6069 directory_path uintptr arg _ZL27icu_data_directory_is_validPKc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc clean_up 2597 print_message bool cond _ZL8clean_upb#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc usage 10088 build_id uintptr arg _ZL5usagev#%33
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc usage 10077 _db_trace uintptr arg _ZL5usagev#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc mysqld_exit 2500 exit_code int cond|arg _ZL11mysqld_exiti#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc generate_server_uuid 5487 func_uuid uintptr arg _ZL20generate_server_uuidv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc generate_server_uuid 5486 thd uintptr arg|cond _ZL20generate_server_uuidv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc generate_server_uuid 5488 uuid String arg _ZL20generate_server_uuidv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc flush_auto_options 5539 fd File arg|cond _ZL18flush_auto_optionsPKc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc flush_auto_options 5538 fname uintptr arg|cond _ZL18flush_auto_optionsPKc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc flush_auto_options 5540 io_cache IO_CACHE arg|cond _ZL18flush_auto_optionsPKc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc set_server_version 11228 end uintptr arg _ZL18set_server_versionv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc get_relative_path 11261 path uintptr arg|cond _ZL17get_relative_pathPKc#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc delete_dictionary_tablespace 11693 not_used bool arg _ZL28delete_dictionary_tablespacev#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc delete_dictionary_tablespace 11692 path uintptr arg _ZL28delete_dictionary_tablespacev#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc delete_pid_file 11678 error size_t cond _ZL15delete_pid_filei#%49
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc delete_pid_file 11676 buff uintptr arg|cond _ZL15delete_pid_filei#%49
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc delete_pid_file 11666 file File cond|arg _ZL15delete_pid_filei#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc delete_pid_file 11665 flags myf arg|cond _ZL15delete_pid_filei#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc print_help 10062 opt uintptr cond|arg _ZL10print_helpv#%11
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc print_help 10058 mem_root MEM_ROOT arg _ZL10print_helpv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc set_ports 2800 env uintptr arg _ZL9set_portsv#%0
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc set_ports 2816 serv_ptr uintptr arg _ZL9set_portsv#%8
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc add_terminator 10022 options uintptr arg _ZL14add_terminatorPSt6vectorI9my_optionSaIS0_EE#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc add_terminator 10023 empty_element my_option arg _ZL14add_terminatorPSt6vectorI9my_optionSaIS0_EE#%1
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc operator< 10036 a uintptr cond _ZltRK9my_optionS1_#%2
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc operator< 10036 b uintptr cond _ZltRK9my_optionS1_#%2
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc operator< 10038 sb uintptr cond _ZltRK9my_optionS1_#%2
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc operator< 10037 sa uintptr cond _ZltRK9my_optionS1_#%2
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1046 opt_help bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1046 opt_verbose bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1046 opt_validate_config bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1055 key_file_binlog_cache PSI_file_key globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1056 key_file_binlog_index_cache PSI_file_key globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1140 stmt_info_rpl PSI_statement_info globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1150 opt_debugging bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1158 my_bind_addr_str uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1159 my_admin_bind_addr_str uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1160 mysqld_admin_port uint globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1161 listen_admin_interface_in_separate_thread bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1163 default_storage_engine uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1164 default_tmp_storage_engine uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1178 opt_bin_log bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1179 opt_general_log bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1179 opt_slow_log bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1180 log_output_options ulonglong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1181 opt_log_queries_not_using_indexes bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1184 opt_disable_networking bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1184 opt_skip_show_db bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1187 server_id_supplied bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1190 locked_in_memory bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1196 opt_log_error_suppression_list uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1197 opt_log_error_services uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1198 opt_keyring_migration_user uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1199 opt_keyring_migration_host uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1200 opt_keyring_migration_password uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1201 opt_keyring_migration_socket uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1202 opt_keyring_migration_source uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1203 opt_keyring_migration_destination uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1204 opt_keyring_migration_port ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1205 migrate_connect_options bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1206 host_cache_size uint globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1207 log_error_verbosity ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1208 opt_keyring_migration_to_component bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1223 opt_upgrade_mode long globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1224 opt_initialize bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1225 opt_skip_replica_start bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1230 opt_log_replica_updates bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1231 opt_replica_skip_errors uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1248 opt_disabled_storage_engines uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1249 opt_server_id_bits uint globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1250 opt_server_id_mask ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1252 super_read_only bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1257 opt_secure_file_priv uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1258 opt_log_slow_admin_statements bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1259 opt_log_slow_replica_statements bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1260 lower_case_file_system bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1261 opt_large_pages bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1264 offline_mode atomic<bool> globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1265 opt_large_page_size uint globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1268 partial_revokes atomic<bool> globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1269 opt_partial_revokes bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1271 LOCK_default_password_lifetime mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1272 LOCK_mandatory_roles mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1273 LOCK_password_history mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1274 LOCK_password_reuse_interval mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1275 LOCK_tls_ctx_options mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1276 LOCK_admin_tls_ctx_options mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1277 LOCK_partial_revokes mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1291 opt_noacl bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1308 opt_source_verify_checksum bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1310 binlog_format_names uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1320 mysqld_port uint globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1320 test_flags uint globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1321 mysqld_port_timeout uint globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1324 lower_case_table_names uint globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1326 back_log ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1326 server_id ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1327 table_cache_size ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1337 open_files_limit ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1337 max_binlog_size ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1342 opt_mts_replica_parallel_workers ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1367 max_connections ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1369 log_bin_use_v1_row_events bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1370 thread_cache_size_specified bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1371 host_cache_size_specified bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1372 table_definition_cache_specified bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1382 g_deployed_components uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1400 current_pid ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1404 expire_logs_days ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1405 binlog_expire_logs_seconds ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1459 relay_ext uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1461 log_bin_supplied bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1463 server_start_time time_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1479 default_tz_name uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1481 log_error_dest uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1485 opt_init_file uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1486 opt_tc_log_file uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1488 mysql_unpacked_real_data_home uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1489 mysql_unpacked_real_data_home_len size_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1496 mysql_data_home uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1497 mysql_real_data_home_ptr uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1498 opt_protocol_compression_algorithms uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1500 mysqld_unix_port uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1501 opt_mysql_tmpdir uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1503 opt_authentication_policy uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1510 authentication_policy_plugin_ref vector<st_plugin_int#**,#std::allocator<st_plugin_int#**>#> globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1515 decimal_zero my_decimal globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1530 rpl_global_filter Rpl_global_filter globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1531 binlog_filter uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1532 rpl_acf_configuration_handler uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1533 rpl_source_io_monitor uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1534 udf_load_service Udf_load_service globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1538 global_status_var System_status_var globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1540 mysql_tmpdir_list MY_TMPDIR globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1542 system_charset_info uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1542 files_charset_info uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1544 character_set_filesystem uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1546 my_default_lc_messages uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1553 have_statement_timeout SHOW_COMP_OPTION globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1559 LOCK_status mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1559 LOCK_uuid_generator mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1559 LOCK_crypt mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1560 LOCK_global_system_variables mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1560 LOCK_user_conn mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1560 LOCK_error_messages mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1561 LOCK_sql_rand mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1570 LOCK_prepared_stmt_count mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1576 LOCK_replica_list mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1583 LOCK_sql_replica_skip_counter mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1584 LOCK_replica_net_timeout mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1585 LOCK_replica_trans_dep_tracker mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1586 LOCK_log_throttle_qni mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1587 LOCK_sys_init_connect mysql_rwlock_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1587 LOCK_sys_init_replica mysql_rwlock_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1588 LOCK_system_variables_hash mysql_rwlock_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1589 signal_thread_id my_thread_handle globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1590 mysqld_signal_mask sigset_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1591 connection_attrib my_thread_attr_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1592 LOCK_server_started mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1593 COND_server_started mysql_cond_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1594 LOCK_reset_gtid_table mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1595 LOCK_compress_gtid_table mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1596 COND_compress_gtid_table mysql_cond_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1597 LOCK_collect_instance_log mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1599 LOCK_socket_listener_active mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1600 COND_socket_listener_active mysql_cond_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1601 LOCK_start_signal_handler mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1602 COND_start_signal_handler mysql_cond_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1609 LOCK_keyring_operations mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1614 LOCK_rotate_binlog_master_key mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1620 LOCK_authentication_policy mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1622 LOCK_global_conn_mem_limit mysql_mutex_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1624 LOCK_server_shutting_down mysql_rwlock_t globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1630 server_shutting_down bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1632 mysqld_server_started bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1645 report_port uint globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1650 opt_relay_logname uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1650 opt_relaylog_index_name uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1665 log_replica_updates_supplied bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1672 opt_general_logname uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1672 opt_slow_logname uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1672 opt_bin_logname uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1678 expire_logs_days_supplied bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1679 binlog_expire_logs_seconds_supplied bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1684 opt_binlog_index_name uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1685 mysql_home_ptr uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1685 pidfile_name_ptr uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1686 default_auth_plugin uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1829 global_sid_lock uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1830 global_sid_map uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1831 gtid_state uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1832 gtid_table_persistor uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1915 sql_rand rand_struct globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1918 user_info PasswdValue globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1948 dynamic_plugins_are_initialized bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1954 opt_use_ssl bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1955 opt_use_admin_ssl bool globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 1956 opt_ssl_fips_mode ulong globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 2001 error_service uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 2002 system_service uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 2003 rwlock_service uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 2004 srv_registry uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 2005 scheme_file_srv uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 4523 sql_statement_names uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 8838 all_options vector<my_option,#std::allocator<my_option>#> globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 8919 my_long_options uintptr globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 12081 key_file_binlog PSI_file_key globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 12082 key_file_binlog_index PSI_file_key globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 12092 key_file_misc PSI_file_key globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 12096 key_file_init PSI_file_key globalVar
+/home/LLVM_MYSQL mysql-8.0.36/sql/mysqld.cc #global 12246 all_server_stages uintptr globalVar

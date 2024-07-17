@@ -28,13 +28,13 @@ The CXX compiler identification is Clang, found in "/home/LLVM_MYSQL/knob_profil
 Determining if the C compiler works passed with the following output:
 Change Dir: /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_2d1b5/fast && /usr/bin/make -f CMakeFiles/cmTC_2d1b5.dir/build.make CMakeFiles/cmTC_2d1b5.dir/build
+Run Build Command(s):/usr/bin/make cmTC_c68e7/fast && /usr/bin/make -f CMakeFiles/cmTC_c68e7.dir/build.make CMakeFiles/cmTC_c68e7.dir/build
 make[1]: Entering directory '/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_2d1b5.dir/testCCompiler.c.o
-/usr/local/opt/llvm/bin/clang    -o CMakeFiles/cmTC_2d1b5.dir/testCCompiler.c.o   -c /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_2d1b5
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2d1b5.dir/link.txt --verbose=1
-/usr/local/opt/llvm/bin/clang      CMakeFiles/cmTC_2d1b5.dir/testCCompiler.c.o  -o cmTC_2d1b5 
+Building C object CMakeFiles/cmTC_c68e7.dir/testCCompiler.c.o
+/usr/local/opt/llvm/bin/clang    -o CMakeFiles/cmTC_c68e7.dir/testCCompiler.c.o   -c /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_c68e7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c68e7.dir/link.txt --verbose=1
+/usr/local/opt/llvm/bin/clang      CMakeFiles/cmTC_c68e7.dir/testCCompiler.c.o  -o cmTC_c68e7 
 make[1]: Leaving directory '/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp'
 
 
@@ -42,10 +42,10 @@ make[1]: Leaving directory '/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_dis
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_a9296/fast && /usr/bin/make -f CMakeFiles/cmTC_a9296.dir/build.make CMakeFiles/cmTC_a9296.dir/build
+Run Build Command(s):/usr/bin/make cmTC_cce27/fast && /usr/bin/make -f CMakeFiles/cmTC_cce27.dir/build.make CMakeFiles/cmTC_cce27.dir/build
 make[1]: Entering directory '/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_a9296.dir/CMakeCCompilerABI.c.o
-/usr/local/opt/llvm/bin/clang   -v -o CMakeFiles/cmTC_a9296.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c
+Building C object CMakeFiles/cmTC_cce27.dir/CMakeCCompilerABI.c.o
+/usr/local/opt/llvm/bin/clang   -v -o CMakeFiles/cmTC_cce27.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c
 clang version 14.0.6 (https://github.com/llvm/llvm-project.git f28c006a5895fc0e329fe15fead81e37457cb1d1)
 Target: x86_64-unknown-linux-gnu
 Thread model: posix
@@ -55,7 +55,7 @@ Selected GCC installation: /usr/lib/gcc/x86_64-linux-gnu/9
 Candidate multilib: .;@m64
 Selected multilib: .;@m64
  (in-process)
- "/home/LLVM_MYSQL/llvm-project/build/bin/clang-14" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v -fcoverage-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -resource-dir /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6 -internal-isystem /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdebug-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fgnuc-version=4.2.1 -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_a9296.dir/CMakeCCompilerABI.c.o -x c /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c
+ "/home/LLVM_MYSQL/llvm-project/build/bin/clang-14" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v -fcoverage-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -resource-dir /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6 -internal-isystem /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdebug-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fgnuc-version=4.2.1 -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_cce27.dir/CMakeCCompilerABI.c.o -x c /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c
 clang -cc1 version 14.0.6 based upon LLVM 14.0.6 default target x86_64-unknown-linux-gnu
 ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"
 ignoring nonexistent directory "/include"
@@ -66,9 +66,9 @@ ignoring nonexistent directory "/include"
  /usr/include/x86_64-linux-gnu
  /usr/include
 End of search list.
-Linking C executable cmTC_a9296
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a9296.dir/link.txt --verbose=1
-/usr/local/opt/llvm/bin/clang     -v CMakeFiles/cmTC_a9296.dir/CMakeCCompilerABI.c.o  -o cmTC_a9296 
+Linking C executable cmTC_cce27
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cce27.dir/link.txt --verbose=1
+/usr/local/opt/llvm/bin/clang     -v CMakeFiles/cmTC_cce27.dir/CMakeCCompilerABI.c.o  -o cmTC_cce27 
 clang version 14.0.6 (https://github.com/llvm/llvm-project.git f28c006a5895fc0e329fe15fead81e37457cb1d1)
 Target: x86_64-unknown-linux-gnu
 Thread model: posix
@@ -77,7 +77,7 @@ Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/9
 Selected GCC installation: /usr/lib/gcc/x86_64-linux-gnu/9
 Candidate multilib: .;@m64
 Selected multilib: .;@m64
- "/usr/bin/ld" -z relro --hash-style=gnu --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_a9296 /lib/x86_64-linux-gnu/crt1.o /lib/x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_a9296.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/9/crtend.o /lib/x86_64-linux-gnu/crtn.o
+ "/usr/bin/ld" -z relro --hash-style=gnu --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_cce27 /lib/x86_64-linux-gnu/crt1.o /lib/x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_cce27.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/9/crtend.o /lib/x86_64-linux-gnu/crtn.o
 make[1]: Leaving directory '/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp'
 
 
@@ -101,10 +101,10 @@ Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command(s):/usr/bin/make cmTC_a9296/fast && /usr/bin/make -f CMakeFiles/cmTC_a9296.dir/build.make CMakeFiles/cmTC_a9296.dir/build]
+  ignore line: [Run Build Command(s):/usr/bin/make cmTC_cce27/fast && /usr/bin/make -f CMakeFiles/cmTC_cce27.dir/build.make CMakeFiles/cmTC_cce27.dir/build]
   ignore line: [make[1]: Entering directory '/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_a9296.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/local/opt/llvm/bin/clang   -v -o CMakeFiles/cmTC_a9296.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c]
+  ignore line: [Building C object CMakeFiles/cmTC_cce27.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/local/opt/llvm/bin/clang   -v -o CMakeFiles/cmTC_cce27.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c]
   ignore line: [clang version 14.0.6 (https://github.com/llvm/llvm-project.git f28c006a5895fc0e329fe15fead81e37457cb1d1)]
   ignore line: [Target: x86_64-unknown-linux-gnu]
   ignore line: [Thread model: posix]
@@ -116,7 +116,7 @@ Parsed C implicit link information from above output:
   ignore line: [Selected multilib: .]
   ignore line: [@m64]
   ignore line: [ (in-process)]
-  ignore line: [ "/home/LLVM_MYSQL/llvm-project/build/bin/clang-14" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v -fcoverage-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -resource-dir /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6 -internal-isystem /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdebug-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fgnuc-version=4.2.1 -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_a9296.dir/CMakeCCompilerABI.c.o -x c /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c]
+  ignore line: [ "/home/LLVM_MYSQL/llvm-project/build/bin/clang-14" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v -fcoverage-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -resource-dir /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6 -internal-isystem /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdebug-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fgnuc-version=4.2.1 -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_cce27.dir/CMakeCCompilerABI.c.o -x c /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c]
   ignore line: [clang -cc1 version 14.0.6 based upon LLVM 14.0.6 default target x86_64-unknown-linux-gnu]
   ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"]
   ignore line: [ignoring nonexistent directory "/include"]
@@ -127,9 +127,9 @@ Parsed C implicit link information from above output:
   ignore line: [ /usr/include/x86_64-linux-gnu]
   ignore line: [ /usr/include]
   ignore line: [End of search list.]
-  ignore line: [Linking C executable cmTC_a9296]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a9296.dir/link.txt --verbose=1]
-  ignore line: [/usr/local/opt/llvm/bin/clang     -v CMakeFiles/cmTC_a9296.dir/CMakeCCompilerABI.c.o  -o cmTC_a9296 ]
+  ignore line: [Linking C executable cmTC_cce27]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cce27.dir/link.txt --verbose=1]
+  ignore line: [/usr/local/opt/llvm/bin/clang     -v CMakeFiles/cmTC_cce27.dir/CMakeCCompilerABI.c.o  -o cmTC_cce27 ]
   ignore line: [clang version 14.0.6 (https://github.com/llvm/llvm-project.git f28c006a5895fc0e329fe15fead81e37457cb1d1)]
   ignore line: [Target: x86_64-unknown-linux-gnu]
   ignore line: [Thread model: posix]
@@ -140,7 +140,7 @@ Parsed C implicit link information from above output:
   ignore line: [@m64]
   ignore line: [Selected multilib: .]
   ignore line: [@m64]
-  link line: [ "/usr/bin/ld" -z relro --hash-style=gnu --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_a9296 /lib/x86_64-linux-gnu/crt1.o /lib/x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_a9296.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/9/crtend.o /lib/x86_64-linux-gnu/crtn.o]
+  link line: [ "/usr/bin/ld" -z relro --hash-style=gnu --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_cce27 /lib/x86_64-linux-gnu/crt1.o /lib/x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_cce27.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/9/crtend.o /lib/x86_64-linux-gnu/crtn.o]
     arg [/usr/bin/ld] ==> ignore
     arg [-zrelro] ==> ignore
     arg [--hash-style=gnu] ==> ignore
@@ -150,7 +150,7 @@ Parsed C implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_a9296] ==> ignore
+    arg [cmTC_cce27] ==> ignore
     arg [/lib/x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/lib/x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtbegin.o] ==> ignore
@@ -162,7 +162,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/lib] ==> dir [/lib]
     arg [-L/usr/lib] ==> dir [/usr/lib]
-    arg [CMakeFiles/cmTC_a9296.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_cce27.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -190,13 +190,13 @@ Parsed C implicit link information from above output:
 Determining if the CXX compiler works passed with the following output:
 Change Dir: /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_84b8d/fast && /usr/bin/make -f CMakeFiles/cmTC_84b8d.dir/build.make CMakeFiles/cmTC_84b8d.dir/build
+Run Build Command(s):/usr/bin/make cmTC_1fcad/fast && /usr/bin/make -f CMakeFiles/cmTC_1fcad.dir/build.make CMakeFiles/cmTC_1fcad.dir/build
 make[1]: Entering directory '/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_84b8d.dir/testCXXCompiler.cxx.o
-/usr/local/opt/llvm/bin/clang++     -o CMakeFiles/cmTC_84b8d.dir/testCXXCompiler.cxx.o -c /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_84b8d
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_84b8d.dir/link.txt --verbose=1
-/usr/local/opt/llvm/bin/clang++       CMakeFiles/cmTC_84b8d.dir/testCXXCompiler.cxx.o  -o cmTC_84b8d 
+Building CXX object CMakeFiles/cmTC_1fcad.dir/testCXXCompiler.cxx.o
+/usr/local/opt/llvm/bin/clang++     -o CMakeFiles/cmTC_1fcad.dir/testCXXCompiler.cxx.o -c /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_1fcad
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1fcad.dir/link.txt --verbose=1
+/usr/local/opt/llvm/bin/clang++       CMakeFiles/cmTC_1fcad.dir/testCXXCompiler.cxx.o  -o cmTC_1fcad 
 make[1]: Leaving directory '/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp'
 
 
@@ -204,10 +204,10 @@ make[1]: Leaving directory '/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_dis
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_ce9b8/fast && /usr/bin/make -f CMakeFiles/cmTC_ce9b8.dir/build.make CMakeFiles/cmTC_ce9b8.dir/build
+Run Build Command(s):/usr/bin/make cmTC_b7e7e/fast && /usr/bin/make -f CMakeFiles/cmTC_b7e7e.dir/build.make CMakeFiles/cmTC_b7e7e.dir/build
 make[1]: Entering directory '/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_ce9b8.dir/CMakeCXXCompilerABI.cpp.o
-/usr/local/opt/llvm/bin/clang++    -v -o CMakeFiles/cmTC_ce9b8.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp
+Building CXX object CMakeFiles/cmTC_b7e7e.dir/CMakeCXXCompilerABI.cpp.o
+/usr/local/opt/llvm/bin/clang++    -v -o CMakeFiles/cmTC_b7e7e.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp
 clang version 14.0.6 (https://github.com/llvm/llvm-project.git f28c006a5895fc0e329fe15fead81e37457cb1d1)
 Target: x86_64-unknown-linux-gnu
 Thread model: posix
@@ -217,7 +217,7 @@ Selected GCC installation: /usr/lib/gcc/x86_64-linux-gnu/9
 Candidate multilib: .;@m64
 Selected multilib: .;@m64
  (in-process)
- "/home/LLVM_MYSQL/llvm-project/build/bin/clang-14" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v -fcoverage-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -resource-dir /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/c++/9 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/x86_64-linux-gnu/c++/9 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/c++/9/backward -internal-isystem /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro -fdebug-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_ce9b8.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp
+ "/home/LLVM_MYSQL/llvm-project/build/bin/clang-14" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v -fcoverage-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -resource-dir /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/c++/9 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/x86_64-linux-gnu/c++/9 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/c++/9/backward -internal-isystem /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro -fdebug-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_b7e7e.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp
 clang -cc1 version 14.0.6 based upon LLVM 14.0.6 default target x86_64-unknown-linux-gnu
 ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"
 ignoring nonexistent directory "/include"
@@ -231,9 +231,9 @@ ignoring nonexistent directory "/include"
  /usr/include/x86_64-linux-gnu
  /usr/include
 End of search list.
-Linking CXX executable cmTC_ce9b8
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ce9b8.dir/link.txt --verbose=1
-/usr/local/opt/llvm/bin/clang++      -v CMakeFiles/cmTC_ce9b8.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_ce9b8 
+Linking CXX executable cmTC_b7e7e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b7e7e.dir/link.txt --verbose=1
+/usr/local/opt/llvm/bin/clang++      -v CMakeFiles/cmTC_b7e7e.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_b7e7e 
 clang version 14.0.6 (https://github.com/llvm/llvm-project.git f28c006a5895fc0e329fe15fead81e37457cb1d1)
 Target: x86_64-unknown-linux-gnu
 Thread model: posix
@@ -242,7 +242,7 @@ Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/9
 Selected GCC installation: /usr/lib/gcc/x86_64-linux-gnu/9
 Candidate multilib: .;@m64
 Selected multilib: .;@m64
- "/usr/bin/ld" -z relro --hash-style=gnu --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_ce9b8 /lib/x86_64-linux-gnu/crt1.o /lib/x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_ce9b8.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/9/crtend.o /lib/x86_64-linux-gnu/crtn.o
+ "/usr/bin/ld" -z relro --hash-style=gnu --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_b7e7e /lib/x86_64-linux-gnu/crt1.o /lib/x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_b7e7e.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/9/crtend.o /lib/x86_64-linux-gnu/crtn.o
 make[1]: Leaving directory '/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp'
 
 
@@ -272,10 +272,10 @@ Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command(s):/usr/bin/make cmTC_ce9b8/fast && /usr/bin/make -f CMakeFiles/cmTC_ce9b8.dir/build.make CMakeFiles/cmTC_ce9b8.dir/build]
+  ignore line: [Run Build Command(s):/usr/bin/make cmTC_b7e7e/fast && /usr/bin/make -f CMakeFiles/cmTC_b7e7e.dir/build.make CMakeFiles/cmTC_b7e7e.dir/build]
   ignore line: [make[1]: Entering directory '/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_ce9b8.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/local/opt/llvm/bin/clang++    -v -o CMakeFiles/cmTC_ce9b8.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Building CXX object CMakeFiles/cmTC_b7e7e.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/local/opt/llvm/bin/clang++    -v -o CMakeFiles/cmTC_b7e7e.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp]
   ignore line: [clang version 14.0.6 (https://github.com/llvm/llvm-project.git f28c006a5895fc0e329fe15fead81e37457cb1d1)]
   ignore line: [Target: x86_64-unknown-linux-gnu]
   ignore line: [Thread model: posix]
@@ -287,7 +287,7 @@ Parsed CXX implicit link information from above output:
   ignore line: [Selected multilib: .]
   ignore line: [@m64]
   ignore line: [ (in-process)]
-  ignore line: [ "/home/LLVM_MYSQL/llvm-project/build/bin/clang-14" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v -fcoverage-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -resource-dir /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/c++/9 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/x86_64-linux-gnu/c++/9 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/c++/9/backward -internal-isystem /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro -fdebug-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_ce9b8.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [ "/home/LLVM_MYSQL/llvm-project/build/bin/clang-14" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model static -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v -fcoverage-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -resource-dir /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/c++/9 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/x86_64-linux-gnu/c++/9 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/c++/9/backward -internal-isystem /home/LLVM_MYSQL/llvm-project/build/lib/clang/14.0.6/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro -fdebug-compilation-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_b7e7e.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp]
   ignore line: [clang -cc1 version 14.0.6 based upon LLVM 14.0.6 default target x86_64-unknown-linux-gnu]
   ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"]
   ignore line: [ignoring nonexistent directory "/include"]
@@ -301,9 +301,9 @@ Parsed CXX implicit link information from above output:
   ignore line: [ /usr/include/x86_64-linux-gnu]
   ignore line: [ /usr/include]
   ignore line: [End of search list.]
-  ignore line: [Linking CXX executable cmTC_ce9b8]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ce9b8.dir/link.txt --verbose=1]
-  ignore line: [/usr/local/opt/llvm/bin/clang++      -v CMakeFiles/cmTC_ce9b8.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_ce9b8 ]
+  ignore line: [Linking CXX executable cmTC_b7e7e]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b7e7e.dir/link.txt --verbose=1]
+  ignore line: [/usr/local/opt/llvm/bin/clang++      -v CMakeFiles/cmTC_b7e7e.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_b7e7e ]
   ignore line: [clang version 14.0.6 (https://github.com/llvm/llvm-project.git f28c006a5895fc0e329fe15fead81e37457cb1d1)]
   ignore line: [Target: x86_64-unknown-linux-gnu]
   ignore line: [Thread model: posix]
@@ -314,7 +314,7 @@ Parsed CXX implicit link information from above output:
   ignore line: [@m64]
   ignore line: [Selected multilib: .]
   ignore line: [@m64]
-  link line: [ "/usr/bin/ld" -z relro --hash-style=gnu --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_ce9b8 /lib/x86_64-linux-gnu/crt1.o /lib/x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_ce9b8.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/9/crtend.o /lib/x86_64-linux-gnu/crtn.o]
+  link line: [ "/usr/bin/ld" -z relro --hash-style=gnu --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_b7e7e /lib/x86_64-linux-gnu/crt1.o /lib/x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_b7e7e.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/9/crtend.o /lib/x86_64-linux-gnu/crtn.o]
     arg [/usr/bin/ld] ==> ignore
     arg [-zrelro] ==> ignore
     arg [--hash-style=gnu] ==> ignore
@@ -324,7 +324,7 @@ Parsed CXX implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_ce9b8] ==> ignore
+    arg [cmTC_b7e7e] ==> ignore
     arg [/lib/x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/lib/x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtbegin.o] ==> ignore
@@ -336,7 +336,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/lib] ==> dir [/lib]
     arg [-L/usr/lib] ==> dir [/usr/lib]
-    arg [CMakeFiles/cmTC_ce9b8.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_b7e7e.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]

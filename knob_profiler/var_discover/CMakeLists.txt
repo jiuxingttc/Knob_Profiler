@@ -12,7 +12,7 @@ target_compile_features(HelloPass2 PRIVATE cxx_range_for cxx_auto_type)
 set_target_properties(HelloPass2 PROPERTIES COMPILE_FLAGS "-fno-rtti")
 set_target_properties(HelloPass2 PROPERTIES LINK_FLAGS "-Wl,-znodelete -lSegFault")
 
-add_library(KnobDependencyPass MODULE knob_deps_pass.cc)
+add_library(KnobDependencyPass MODULE knob_deps_pass_test.cc)
 target_compile_features(KnobDependencyPass PRIVATE cxx_range_for cxx_auto_type)
 set_target_properties(KnobDependencyPass PROPERTIES COMPILE_FLAGS "-fno-rtti")
 set_target_properties(KnobDependencyPass PROPERTIES LINK_FLAGS "-Wl,-znodelete -lSegFault")

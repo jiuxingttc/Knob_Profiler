@@ -57,27 +57,27 @@ include CMakeFiles/KnobDependencyPass.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/KnobDependencyPass.dir/flags.make
 
-CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.o: CMakeFiles/KnobDependencyPass.dir/flags.make
-CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.o: ../knob_deps_pass.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.o"
-	clang  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.o -c /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/knob_deps_pass.cc
+CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.o: CMakeFiles/KnobDependencyPass.dir/flags.make
+CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.o: ../knob_deps_pass_test.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.o"
+	clang  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.o -c /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/knob_deps_pass_test.cc
 
-CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.i"
-	clang $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/knob_deps_pass.cc > CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.i
+CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.i"
+	clang $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/knob_deps_pass_test.cc > CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.i
 
-CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.s"
-	clang $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/knob_deps_pass.cc -o CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.s
+CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.s"
+	clang $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/knob_deps_pass_test.cc -o CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.s
 
 # Object files for target KnobDependencyPass
 KnobDependencyPass_OBJECTS = \
-"CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.o"
+"CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.o"
 
 # External object files for target KnobDependencyPass
 KnobDependencyPass_EXTERNAL_OBJECTS =
 
-libKnobDependencyPass.so: CMakeFiles/KnobDependencyPass.dir/knob_deps_pass.cc.o
+libKnobDependencyPass.so: CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.o
 libKnobDependencyPass.so: CMakeFiles/KnobDependencyPass.dir/build.make
 libKnobDependencyPass.so: CMakeFiles/KnobDependencyPass.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX shared module libKnobDependencyPass.so"

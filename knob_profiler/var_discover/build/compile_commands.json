@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build",
+  "command": "clang  -DKnobDependencyPass_EXPORTS -I/home/LLVM_MYSQL/llvm-project/llvm/include -I/home/LLVM_MYSQL/llvm-project/build/include  -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -fno-rtti -o CMakeFiles/KnobDependencyPass.dir/knob_deps_pass_test.cc.o -c /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/knob_deps_pass_test.cc",
+  "file": "/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/knob_deps_pass_test.cc"
+},
+{
+  "directory": "/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/build",
+  "command": "clang  -DHelloPass2_EXPORTS -I/home/LLVM_MYSQL/llvm-project/llvm/include -I/home/LLVM_MYSQL/llvm-project/build/include  -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -fno-rtti -o CMakeFiles/HelloPass2.dir/hello_llvm.cc.o -c /home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/hello_llvm.cc",
+  "file": "/home/LLVM_MYSQL/knob_profiler/knob_profiler/var_discover/hello_llvm.cc"
+}
+]
